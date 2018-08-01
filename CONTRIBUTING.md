@@ -16,7 +16,7 @@ We welcome Pull Requests for bug fixes on any open issues that you'd like to con
 
 ## Discussion
 
-Aside from writing issues and pull requests, you can also hang out in the #mobile WordPress.org Slack channel with other WordPress Mobile developers/contributors. Check out chat.wordpress.org for instructions on how to create an account in Slack.
+Aside from writing issues and pull requests, you can also hang out in the #mobile WordPress.org Slack channel with other WordPress Mobile developers/contributors. Check out [here](chat.wordpress.org) for instructions on how to create an account in Slack.
 
 The purpose of the Slack chat is to provide updates about ongoing initiatives regarding the mobile apps and to discuss, prioritize and coordinate future changes. If you have questions, Slack chat is a great place to start.
 
